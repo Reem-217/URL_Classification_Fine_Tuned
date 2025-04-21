@@ -63,8 +63,8 @@ You can use this model in Python:
 ```python
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 
-model = AutoModelForSequenceClassification.from_pretrained("your-username/url-safety-bert")
-tokenizer = AutoTokenizer.from_pretrained("your-username/url-safety-bert")
+model = AutoModelForSequenceClassification.from_pretrained("remomo/URLClassifier")
+tokenizer = AutoTokenizer.from_pretrained("remomo/URLClassifier")
 
 inputs = tokenizer("http://example.com", return_tensors="pt")
 outputs = model(**inputs)
