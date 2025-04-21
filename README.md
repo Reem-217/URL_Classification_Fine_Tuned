@@ -43,7 +43,7 @@ This model is a fine-tuned version of `bert-base-uncased` on a binary classifica
 
 Used a labeled dataset of URLs classified as Safe or Unsafe.
 
-- 🔗 Dataset: [URL Classification Dataset](shawhin/phishing-site-classification)
+- 🔗 Dataset: [URL Classification Dataset]([shawhin/phishing-site-classification](https://huggingface.co/datasets/shawhin/phishing-site-classification))
 
 ---
 
