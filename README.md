@@ -15,7 +15,7 @@ Built with 🤗 Hugging Face Transformers and deployed via Gradio.
 
 This model is a fine-tuned version of `bert-base-uncased` on a binary classification task for URL safety detection.
 
-- 🤗 Model Hub: [your-username/url-safety-bert](https://huggingface.co/remomo/URLClassifier)
+- 🤗 Model Hub: [remomo/URLClassifer](https://huggingface.co/remomo/URLClassifier)
 
 ---
 
